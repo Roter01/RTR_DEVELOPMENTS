@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "changelog": "EN:\n• Fixed delayed video start issue\n• Videos load faster when using .webm format\n• Minor bug fixes and improvements\n• Added debug option to config.js\n\nTR:\n• Video geç açılma sorunu düzeltildi\n• .webm formatında videolar daha hızlı yüklenmektedir\n• Küçük hatalar giderildi ve iyileştirmeler yapıldı\n• config.js dosyasına debug özelliği eklendi\n\nModified Files:\n• fxmanifest.lua (version updated)\n• ui/assets/.js\n• ui/assets/.css\n• ui/.html\n• config.js"
+  "version": "1.0.6.2",
+  "changelog": "Görev menüsü eklendi\nGizli görevler eklendi\nNametag konumu düzeltildi"
 }
