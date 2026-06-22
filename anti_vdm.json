@@ -1,4 +1,4 @@
 {
   "version": "1.0.9",
-  "changelog": "EN:\n• Added the mouse-following eye toggle button to the Radial Menu Settings Menu\n• General UI improvements and refinements implemented\n\nTR:\n• Mouse’u takip eden göz açma/kapatma butonu Radial Menu Ayar Menüsüne eklendi\n• Genel UI iyileştirmeleri ve düzenlemeleri yapıldı\n\nModified Files:\n• fxmanifest.lua (version updated)\n• ui/assets/.js\n• ui/assets/.css\n• ui/.html"
+  "changelog": "Gelismis ghost modu (statebag senkron)\ntxAdmin gercek ban entegrasyonu\nBan ID gosterimi\nGuncelleme kontrol sistemi"
 }
